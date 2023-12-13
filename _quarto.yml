@@ -22,7 +22,6 @@ website:
         file: about.qmd
 format:
   html:
-    # author: "Trang Nguyen"
     comments:
       utterances:
         repo: trangnv/trangnv
