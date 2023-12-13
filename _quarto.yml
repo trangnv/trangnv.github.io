@@ -24,7 +24,7 @@ format:
   html:
     comments:
       utterances:
-        repo: trangnv/trangnv
+        repo: trangnv/trangnv.github.io
     toc: true
     toc-location: "left"
     code-link: true
