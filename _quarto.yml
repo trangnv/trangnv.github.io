@@ -1,0 +1,40 @@
+project:
+  type: website
+
+website:
+  title: "Barking Up"
+  description: "Barking up the wrong tree"
+  favicon: images/B.png
+  image: images/barking.png
+  repo-url: https://github.com/trangnv/trangnv
+  open-graph: true
+  twitter-card:
+    image: images/barking.png
+    creator: "@trangnv_"
+    card-style: summary_large_image
+  site-url: trangnv.github.io
+  navbar:
+    search: true
+    right:
+      - text: "Blog"
+        file: index.qmd
+      - text: "About"
+        file: about.qmd
+format:
+  html:
+    # author: "Trang Nguyen"
+    comments:
+      utterances:
+        repo: trangnv/trangnv
+    toc: true
+    toc-location: "left"
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    mainfont: "Lato"
+    monofont: "Fira Mono"
+    footnotes-hover: true
+    fontsize: 1em
+    theme: my-litera.scss
+    css: styles.css
