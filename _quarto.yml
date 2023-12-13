@@ -6,7 +6,7 @@ website:
   description: "Barking up the wrong tree"
   favicon: images/B.png
   image: images/barking.png
-  repo-url: https://github.com/trangnv/trangnv
+  repo-url: https://github.com/trangnv/trangnv.github.io
   open-graph: true
   twitter-card:
     image: images/barking.png

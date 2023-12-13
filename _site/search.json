@@ -7,11 +7,11 @@
     "text": "Sometime dogs bark the wrong tree"
   },
   {
-    "objectID": "posts/post-with-code/index.html",
-    "href": "posts/post-with-code/index.html",
-    "title": "Post With Code",
+    "objectID": "posts/how-to-cook-steel/index.html",
+    "href": "posts/how-to-cook-steel/index.html",
+    "title": "Cooking Up Strong Steel",
     "section": "",
-    "text": "This is a post with executable code."
+    "text": "When I first started out as a metallurgical engineer, I was tasked with finding the right “recipe” to make high quality steel. My buddy asked me how that works, and I tried to explain it by comparing it to boiling an egg. You have to dial in just the right time and add a pinch of ingredients to get that perfect firm yet tender egg.\nWell in steelmaking you have these massive furnaces acting like a giant pot to cook the metal, and my job was to determine the ideal combinations - how long to cook it and which metals and alloys to add - to end up with a strong yet durable finished steel product.\nIt’s amazing how small tweaks can really change the metal’s characteristics. I found it so cool to tinker around with different formulas and test out the results to see how the steel’s strength, hardness, or other attributes varied. It was like magic seeing the transformation and learning what “recipes” produced the best steel.\nI realized metallurgy is as much art as science!"
   },
   {
     "objectID": "index.html",
@@ -19,40 +19,5 @@
     "title": "Barking Up",
     "section": "",
     "text": "Order By\n       Default\n         \n          Title\n        \n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n     \n  \n\n\n\n\n  \n\n\n\n\nCooking Up Strong Steel\n\n\n\n\n\n\n\n\n\n\n\n\n2023-12-12\n\n\n1 min\n\n\n\n\n\n\nNo matching items"
-  },
-  {
-    "objectID": "about.html#education",
-    "href": "about.html#education",
-    "title": "Finley Malloc",
-    "section": "",
-    "text": "University of California, San Diego | San Diego, CA PhD in Mathematics | Sept 2011 - June 2015\nMacalester College | St. Paul MA B.A in Economics | Sept 2007 - June 2011"
-  },
-  {
-    "objectID": "about.html#experience",
-    "href": "about.html#experience",
-    "title": "Finley Malloc",
-    "section": "",
-    "text": "Wengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Sept 2012 - April 2018"
-  },
-  {
-    "objectID": "posts/nb/nb1.html",
-    "href": "posts/nb/nb1.html",
-    "title": "Barking Up",
-    "section": "",
-    "text": "1+1\n\n:"
-  },
-  {
-    "objectID": "posts/nb/nb22.html",
-    "href": "posts/nb/nb22.html",
-    "title": "Barking Up",
-    "section": "",
-    "text": "# this is abcs"
-  },
-  {
-    "objectID": "posts/how-to-cook-steel/index.html",
-    "href": "posts/how-to-cook-steel/index.html",
-    "title": "Cooking Up Strong Steel",
-    "section": "",
-    "text": "When I first started out as a metallurgical engineer, I was tasked with finding the right “recipe” to make high quality steel. My buddy asked me how that works, and I tried to explain it by comparing it to boiling an egg. You have to dial in just the right time and add a pinch of ingredients to get that perfect firm yet tender egg.\nWell in steelmaking you have these massive furnaces acting like a giant pot to cook the metal, and my job was to determine the ideal combinations - how long to cook it and which metals and alloys to add - to end up with a strong yet durable finished steel product.\nIt’s amazing how small tweaks can really change the metal’s characteristics. I found it so cool to tinker around with different formulas and test out the results to see how the steel’s strength, hardness, or other attributes varied. It was like magic seeing the transformation and learning what “recipes” produced the best steel.\nI realized metallurgy is as much art as science!"
   }
 ]
